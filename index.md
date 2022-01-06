@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "ABCDEFG"
 ---
 
 I'm glad you are here. I plan to talk about ...
